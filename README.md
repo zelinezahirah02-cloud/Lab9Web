@@ -134,3 +134,13 @@ Contohnya `require $_GET['page'] . '.php'`. Penyerang dapat memakai path travers
 - Detail error koneksi database dicatat ke log, tidak ditampilkan ke pengguna.
 
 ## 10. Screenshoot
+<img width="959" height="506" alt="Screenshot 2026-11-25 055949" src="https://github.com/user-attachments/assets/9a3202dd-6c57-4c36-81c1-2313163b30a9" />
+<img width="959" height="503" alt="Screenshot 2026-11-25 060330" src="https://github.com/user-attachments/assets/97cc4d95-9bb2-4ca7-ac81-c87806ee846e" />
+<img width="957" height="502" alt="Screenshot 2026-11-25 060356" src="https://github.com/user-attachments/assets/f6902e50-98f1-4abb-86df-b3791eecb2bd" />
+<img width="959" height="501" alt="Screenshot 2026-11-25 060423" src="https://github.com/user-attachments/assets/be500d3c-d3a9-4786-a1a9-5d599ed9ceb0" />
+<img width="958" height="505" alt="Screenshot 2026-11-25 060452" src="https://github.com/user-attachments/assets/cea08b80-06a5-445f-ab4f-5f5a0f421742" />
+<img width="959" height="503" alt="Screenshot 2026-11-25 061006" src="https://github.com/user-attachments/assets/82fcd873-547f-42d2-a523-cd36ab9bea34" />
+<img width="959" height="497" alt="Screenshot 2026-11-25 061202" src="https://github.com/user-attachments/assets/10dead2b-cee1-4c78-97bb-1cace1308959" />
+<img width="959" height="503" alt="Screenshot 2026-11-25 061128" src="https://github.com/user-attachments/assets/8115b4b2-0326-4404-81fb-dc50cc6c22d0" />
+<img width="959" height="503" alt="Screenshot 2026-11-25 061006" src="https://github.com/user-attachments/assets/bcbdebee-77ab-4468-b90d-9929c45e222c" />
+<img width="959" height="504" alt="Screenshot 2026-11-25 061020" src="https://github.com/user-attachments/assets/afaed4f0-2c46-4ac6-96af-72bb1b471d7a" />
